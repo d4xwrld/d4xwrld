@@ -45,6 +45,3 @@
 <div class="streaks" align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=d4xwrld&theme=modern-lilac2" alt="GitHub Streak"/>
 </div>
-<div class="top-langs" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4xwrld&layout=compact&theme-modern-lilac2" />
-</div>
