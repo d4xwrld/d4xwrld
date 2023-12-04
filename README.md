@@ -18,7 +18,7 @@
 ---
 
 - My Project <br><br>
-<div class="Project">
+<div class="Project" align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=jujun&theme=discord_old_blurple" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=onepplg&theme=discord_old_blurple" />
 </div>
