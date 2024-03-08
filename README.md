@@ -11,9 +11,10 @@
 
 - ⚡ I usually upload my homework to my Github Account.
 
-[![my badge](https://badgen.net/badge/FrontEnd/Participation/blue?icon=github)](https://gamelab.id/certificate/GL8408285636)
-[![myweb](https://badgen.net/badge/My/Website/red?icon=git)](https://d4xwrld.github.io)
-
+<div align="center">
+<img src="https://badgen.net/badge/FrontEnd/Participation/blue?icon=github" href="https://gamelab.id/certificate/GL8408285636" />
+<img src="https://badgen.net/badge/My/Website/red?icon=git" href="https://d4xwrld.github.io" />
+</div>
 
 ---
 
@@ -26,7 +27,7 @@
 
 - My Project <br><br>
 <div class="Project" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=ngl-clone&theme=discord_old_blurple" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=ngl-clone&theme=discord_old_blurple" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=jujun&theme=discord_old_blurple" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=onepplg&theme=discord_old_blurple" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=cafe-street&theme=discord_old_blurple" />
