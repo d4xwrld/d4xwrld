@@ -4,14 +4,20 @@
 
 ---
 
+<div align="center">
 👨‍💻 About Myself
-- 🌐 I’m 2nd Grade student at SMKN 1 Katapang as a Junior Software Engineer and contributing to frontend and backend for building web applications.
 
-- 💻 Im Code a design.
 
-- ⚡ I usually upload my homework to my Github Account.
+🌐 I’m 2nd Grade student at SMKN 1 Katapang as a Junior Software Engineer, contributing to FullStack.
+
+
+💻 I do Code a design.
+
+
+⚡ I usually upload my homework to my Github Account.
 
 <div align="center">
+<img src="https://badgen.net/badge/support/me/dark?icon=buymeacoffee" href="https://saweria.co/d4xwrld" />
 <img src="https://badgen.net/badge/FrontEnd/Participation/blue?icon=github" href="https://gamelab.id/certificate/GL8408285636" />
 <img src="https://badgen.net/badge/My/Website/red?icon=git" href="https://d4xwrld.github.io" />
 </div>
