@@ -17,9 +17,9 @@
 ⚡ I usually upload my homework to my Github Account.
 
 <div align="center">
-<img src="https://badgen.net/badge/support/me/dark?icon=buymeacoffee" href="https://saweria.co/d4xwrld" />
-<img src="https://badgen.net/badge/FrontEnd/Participation/blue?icon=github" href="https://gamelab.id/certificate/GL8408285636" />
-<img src="https://badgen.net/badge/My/Website/red?icon=git" href="https://d4xwrld.github.io" />
+<a href="https://saweria.co/d4xwrld"> <img src="https://badgen.net/badge/support/me/dark?icon=buymeacoffee"  /> </a>
+<a href="https://gamelab.id/certificate/GL8408285636"> <img src="https://badgen.net/badge/FrontEnd/Participation/blue?icon=github" /> </a>
+<a href="https://d4xwrld.github.io"> <img src="https://badgen.net/badge/My/Website/red?icon=git" /> </a>
 </div>
 
 ---
@@ -31,13 +31,14 @@
 
 ---
 
-- My Project <br><br>
+My Project <br><br>
 <div class="Project" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=ngl-clone&theme=discord_old_blurple" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=jujun&theme=discord_old_blurple" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=onepplg&theme=discord_old_blurple" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=cafe-street&theme=discord_old_blurple" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=smkcoding.id-scss&theme=discord_old_blurple" />
+<a href="https://github.com/d4xwrld/ngl-clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=ngl-clone&theme=discord_old_blurple" /> </a>
+<a href="https://github.com/d4xwrld/jujun"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=jujun&theme=discord_old_blurple" /> </a>
+<a href="https://github.com/d4xwrld/onepplg"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=onepplg&theme=discord_old_blurple" /> </a>
+<a href="https://github.com/d4xwrld/cafe-street"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=cafe-street&theme=discord_old_blurple" /> </a>
+<a href="https://github.com/d4xwrld/smkcoding.id-scss"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=smkcoding.id-scss&theme=discord_old_blurple" /> </a>
+<a href="https://github.com/d4xwrld/smkcoding.id-tailwindCSS"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=smkcoding.id-tailwindCSS&theme=discord_old_blurple" /> </a>
 </div>
 
 ---
