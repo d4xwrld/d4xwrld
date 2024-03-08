@@ -17,6 +17,13 @@
 
 ---
 
+<div align="center">
+- My Contribution on this year! -
+<img src="https://github.com/d4xwrld/d4xwrld.github.io/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
 - My Project <br><br>
 <div class="Project" align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=ngl-clone&theme=discord_old_blurple" />
