@@ -8,7 +8,7 @@
 👨‍💻 About Myself
 
 
-🌐 I’m 2nd Grade student at SMKN 1 Katapang as a Junior Software Engineer, contributing to FullStack.
+🌐 I’m 3rd Grade student at SMKN 1 Katapang as a Junior Software Engineer, contributing to FullStack.
 
 
 💻 I do Code a design.
