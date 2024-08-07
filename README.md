@@ -20,7 +20,7 @@
 <a href="https://saweria.co/d4xwrld"> <img src="https://badgen.net/badge/support/me/dark?icon=buymeacoffee"  /> </a>
 <a href="https://smkcoding.id/dashboard/students/profile/6e623b21500fe3669011f987989ee176673940d9e9?slug=css-magician-series-2024"> <img src="https://badgen.net/badge/CSS/Certificate/grey?icon=github" /> </a>
 <a href="https://gamelab.id/certificate/GL8408285636"> <img src="https://badgen.net/badge/FrontEnd/Participation/blue?icon=github" /> </a>
-<a href="https://d4xwrld.github.io"> <img src="https://badgen.net/badge/My/Website/red?icon=git" /> </a>
+<a href="https://d4xwrld.69dev.id"> <img src="https://badgen.net/badge/My/Website/red?icon=git" /> </a>
 </div>
 
 ---
