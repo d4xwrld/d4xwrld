@@ -36,6 +36,8 @@ My Project <br><br>
 <div class="Project" align="center">
 <a href="https://github.com/d4xwrld/TeFa-Filament"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=TeFa-Filament&theme=discord_old_blurple" /> </a>
 <div class="Project" align="center">
+<a href="https://github.com/d4xwrld/laragram"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=laragram&theme=discord_old_blurple" /> </a>
+<div class="Project" align="center">
 <a href="https://github.com/d4xwrld/rumahibadah.id"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=rumahibadah.id&theme=discord_old_blurple" /> </a>
 <a href="https://github.com/d4xwrld/ngl-clone"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=ngl-clone&theme=discord_old_blurple" /> </a>
 <a href="https://github.com/d4xwrld/jujun"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=d4xwrld&repo=jujun&theme=discord_old_blurple" /> </a>
