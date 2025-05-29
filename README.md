@@ -8,7 +8,7 @@
 👨‍💻 About Myself
 
 
-🌐 I’m doing Intern as a Junior Software Engineer, contributing to Frontend Developer.
+🌐 I’m doing Intern as a Junior Software Engineer, contributing to Full stack developer
 
 
 💻 I do Code a design.
