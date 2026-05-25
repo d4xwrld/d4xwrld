@@ -8,7 +8,7 @@
 👨‍💻 About Myself
 
 
-🌐 I’m doing Intern as a Junior Software Engineer, contributing to Full stack developer
+🌐 I’m working as Data Engineering, contributing to Data Pipeline, and NLP
 
 
 💻 I do Code a design.
